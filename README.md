@@ -2,6 +2,10 @@
 
 Welcome to the **Calculator** repository! This is a simple Python program that performs basic arithmetic operations, including addition, subtraction, multiplication, and division.
 
+## Project Timeline
+- **Creation Date**: July 20, 2023
+- **Uploaded to GitHub**: 2024
+
 ## Features
 
 - **Addition**: Adds two numbers.
