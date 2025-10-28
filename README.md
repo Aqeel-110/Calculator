@@ -41,6 +41,3 @@ Welcome to the **Calculator** repository! This is a simple Python program that p
    
    Result: 50
 
-## License
-
-   This project is licensed under the MIT License. See the LICENSE file for details.
